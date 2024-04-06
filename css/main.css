@@ -2467,7 +2467,17 @@ html.no-csstransitions .hero-content {
   }
 
 }
+@media screen and (max-width:800px) {
+  .header-font {
+    right: 9px;
+  }
 
+}
+@media screen and (max-width:800px) {
+  .align-connect {
+    right: 7px;
+  }
+}
 
 
 /* ===================================================================

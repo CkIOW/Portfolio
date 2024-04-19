@@ -2528,7 +2528,7 @@ html.no-csstransitions .hero-content {
     top: -2rem;
   }
 }
- @media screen and (max-width:768px) {
+ @media screen and (max-width:500px) {
 .font-about{
     font-size: 11px !important;
     left: -13px !important;

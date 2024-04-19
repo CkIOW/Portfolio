@@ -2528,6 +2528,12 @@ html.no-csstransitions .hero-content {
     top: -2rem;
   }
 }
+.font-about{
+  @media screen and (max-width:768px) {
+    font-size: 11px;
+    left: -13px;
+  }
+}
 
 /* ------------------------------------------------------------------- 
  * ## career position

@@ -2524,6 +2524,9 @@ html.no-csstransitions .hero-content {
   position: absolute;
   top: 8rem;
   left: calc(50% + 80px);
+   @media screen and (max-width:768px) {
+    top: -2rem;
+  }
 }
 
 /* ------------------------------------------------------------------- 
